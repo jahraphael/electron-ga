@@ -62,7 +62,7 @@
     "typescript": "^2.8.1"
   },
   "dependencies": {
-    "node-machine-id": "^1.1.9",
+    "node-machine-id": "jahraphael/node-machine-id",
     "qs": "^6.5.1"
   }
 }
