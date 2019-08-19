@@ -51,18 +51,18 @@
   "devDependencies": {
     "@types/electron": "^1.6.10",
     "@types/jest": "^21.1.8",
-    "@types/node": "^8.10.4",
-    "electron": "^1.8.2",
+    "@types/node": "^8.10.51",
+    "electron": "^1.8.8",
     "jest": "^21.2.1",
-    "rimraf": "^2.6.2",
+    "rimraf": "^2.7.1",
     "rollup": "^0.52.1",
     "rollup-plugin-typescript2": "^0.8.4",
     "rollup-plugin-uglify": "^2.0.1",
     "ts-jest": "^21.2.4",
-    "typescript": "^2.8.1"
+    "typescript": "^2.9.2"
   },
   "dependencies": {
-    "node-machine-id": "jahraphael/node-machine-id",
-    "qs": "^6.5.1"
+    "node-machine-id": "^1.1.12",
+    "qs": "^6.8.0"
   }
 }
